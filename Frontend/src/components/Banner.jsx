@@ -18,6 +18,7 @@ const Banner = () => {
               distinctio beatae nulla ipsam perferendis eveniet dolorem at, eum,
               error temporibus.
             </p>
+            {/*
             <label className="input input-bordered flex items-center gap-2">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -30,8 +31,9 @@ const Banner = () => {
               </svg>
               <input type="text" className="grow" placeholder="Email" />
             </label>
+            */}
           </div>
-          <button className="btn mt-6 btn-primary">Get Started</button>
+          {/* <button className="btn mt-6 btn-primary">Get Started</button> */}
         </div>
         <div className="w-full md:w-1/2">
           <img src={gojo} className="w-98 h-80" alt="" />

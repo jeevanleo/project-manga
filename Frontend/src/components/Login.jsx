@@ -21,7 +21,7 @@ function Login() {
         console.log(res.data);
         if (res.data) {
           toast.success("Loggedin Successfully");
-          document.getElementById("  ").close();
+          document.getElementById("my_modal_3").close();
           setTimeout(() => {
             window.location.reload();
             localStorage.setItem("Users", JSON.stringify(res.data.user));
