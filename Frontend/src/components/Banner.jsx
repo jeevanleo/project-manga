@@ -2,21 +2,22 @@ import React from "react";
 import gojo from "../../public/gojo.png";
 
 const Banner = () => {
+  const handleButtonClick = () => {
+    window.open("https://hianime.to/tv", "_blank");
+  };
   return (
     <>
       <div className="max-w-screen-2xl container mx-auto md:px-20 px-4 pt-10 flex flex-col md:flex-row my-10">
         <div className="w-full order-2 md:order-1 md:w-1/2 mt-12 md:mt-36">
           <div className="space-y-8">
             <h1 className="text-2xl md:text-4xl font-boldd">
-              Hello ,welcome here to learn something{" "}
-              <span className="text-blue-500">new everyday!</span>
+              Welcome to <span className="text-blue-500">MangaVerse!</span>
               {/*you can change the text color later that 500 will become darker if you increase the number*/}
             </h1>
             <p className="text-sm md:text-xl">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ratione
-              enim tempora delectus neque maxime nam nihil laborum ad ipsa
-              distinctio beatae nulla ipsam perferendis eveniet dolorem at, eum,
-              error temporibus.
+              Ready to dive into the manga? You're in the right place! Stay on
+              this website to explore our manga collection. Looking for anime
+              instead? Click the button below to start watching!.
             </p>
             {/*
             <label className="input input-bordered flex items-center gap-2">
@@ -33,7 +34,17 @@ const Banner = () => {
             </label>
             */}
           </div>
-          {/* <button className="btn mt-6 btn-primary">Get Started</button> */}
+          {/*<button className="btn mt-6 btn-primary">Get Started</button>*/}
+          <div className="container">
+            <div className="centered">
+              <button
+                className="btn mt-6 btn-primary"
+                onClick={handleButtonClick}
+              >
+                To Watch Anime!
+              </button>
+            </div>
+          </div>
         </div>
         <div className="w-full md:w-1/2">
           <img src={gojo} className="w-98 h-80" alt="" />

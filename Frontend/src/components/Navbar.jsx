@@ -44,12 +44,12 @@ function Navbar() {
       <li>
         <a href="/Course">Premium Manga</a>
       </li>
-      <li>
+      {/*<li>
         <a>Contact</a>
       </li>
       <li>
         <a>About</a>
-      </li>
+  </li>*/}
     </>
   );
   return (
@@ -103,7 +103,9 @@ function Navbar() {
                   type="text"
                   className="grow outline-none"
                   placeholder="Search"
+                  style={{ border: "none", outline: "none" }} // Custom inline style to remove outlines
                 />
+
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 16 16"

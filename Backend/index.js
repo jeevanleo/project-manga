@@ -17,15 +17,18 @@ const PORT = process.env.PORT || 4000;
 const URI = process.env.MongoDBURI;
 
 //connect to mangodb from here
-try {
-  mongoose.connect(URI, {
+mongoose
+  .connect(URI, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
+  })
+  .then(() => {
+    console.log("Connected to MongoDB");
+  })
+  .catch((error) => {
+    console.error("Error connecting to MongoDB:", error);
+    process.exit(1); // Exit the application if connection fails
   });
-  console.log("Connected to mongoDB");
-} catch (error) {
-  console.log("Error: ", error);
-}
 
 //define routes
 app.use("/book", bookRoute);

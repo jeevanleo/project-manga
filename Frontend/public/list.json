@@ -1,90 +1,242 @@
 [
   {
     "id": 1,
-    "name": "Story Book",
-    "title": "hi hello",
+    "name": "Jujutsu Kaisen",
+    "title": "Action|Demons",
     "price": 0,
     "category": "Free",
-    "image": "https://i.pinimg.com/564x/b4/ae/2b/b4ae2bef7b1bf186a6b55cd31b69f8d9.jpg"
+    "image": "https://m.economictimes.com/thumb/msid-106580861,width-1200,height-900,resizemode-4,imgsize-37850/jujutsu-kaisen.jpg"
   },
   {
     "id": 2,
-    "name": "Comedy Book",
-    "title": "hi hello",
+    "name": "One Piece",
+    "title": "Adventure|Comedy",
     "price": 0,
-    "category": "song",
-    "image": "https://i.pinimg.com/564x/b4/ae/2b/b4ae2bef7b1bf186a6b55cd31b69f8d9.jpg"
+    "category": "Free",
+    "image": "https://wallpapers.com/images/featured/one-piece-pictures-bjm9tdff9yzguoup.webp"
   },
   {
     "id": 3,
-    "name": "Story Book",
-    "title": "hi hello",
+    "name": "Blue Lock",
+    "title": "Shounen|Sports",
     "price": 0,
     "category": "Free",
-    "image": "https://i.pinimg.com/564x/b4/ae/2b/b4ae2bef7b1bf186a6b55cd31b69f8d9.jpg"
+    "image": "https://assets-prd.ignimgs.com/2023/03/30/blue-lock-br-1680220255441.jpg"
   },
   {
     "id": 4,
-    "name": "Fantasy Book",
-    "title": "hi hello",
+    "name": "Bleach",
+    "title": "Action|SuperPower",
     "price": 0,
     "category": "Free",
-    "image": "https://i.pinimg.com/564x/b4/ae/2b/b4ae2bef7b1bf186a6b55cd31b69f8d9.jpg"
+    "image": "https://images5.alphacoders.com/331/331316.jpg"
   },
   {
     "id": 5,
-    "name": "Story Book",
-    "title": "hi hello",
+    "name": "Zom 100",
+    "title": "Comedy|Drama",
     "price": 0,
     "category": "Free",
-    "image": "https://i.pinimg.com/564x/b4/ae/2b/b4ae2bef7b1bf186a6b55cd31b69f8d9.jpg"
+    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/07/zom100_blogsplash_1200x630.jpg"
   },
   {
     "id": 6,
-    "name": "Comedy Book",
-    "title": "hi hello",
+    "name": "My Star",
+    "title": "Romance|SliceofLife",
     "price": 0,
     "category": "Free",
-    "image": "https://i.pinimg.com/564x/b4/ae/2b/b4ae2bef7b1bf186a6b55cd31b69f8d9.jpg"
+    "image": "https://media.comikey.com/gazo/600/jpg/comics/qDVb5D/24c40d662261.png"
   },
   {
     "id": 7,
-    "name": "Story Book",
-    "title": "hi hello",
+    "name": "Hell's Paradise: Jigokuraku",
+    "title": "Historical|Shounenl",
     "price": 0,
     "category": "Free",
-    "image": "https://i.pinimg.com/564x/b4/ae/2b/b4ae2bef7b1bf186a6b55cd31b69f8d9.jpg"
+    "image": "https://resize.cdn.otakumode.com/full/u/59a5357b22aa458e9b950bf90681ee06.jpg"
   },
   {
     "id": 8,
-    "name": "Story Book",
-    "title": "hi hello",
+    "name": "Boruto: Naruto",
+    "title": "Adventure|Martial Arts",
     "price": 0,
     "category": "Free",
-    "image": "https://i.pinimg.com/564x/b4/ae/2b/b4ae2bef7b1bf186a6b55cd31b69f8d9.jpg"
+    "image": "https://mms.businesswire.com/media/20221002005008/en/1588038/5/SHUEISHA_photo.jpg"
   },
   {
     "id": 9,
-    "name": "Story Book",
-    "title": "hi hello",
+    "name": "Black Clover",
+    "title": "Action|Comedy",
     "price": 0,
     "category": "Free",
-    "image": "https://i.pinimg.com/564x/b4/ae/2b/b4ae2bef7b1bf186a6b55cd31b69f8d9.jpg"
+    "image": "https://dw9to29mmj727.cloudfront.net/promo/2016/5391-SeriesHeader_Tier02_BLC_2000x800_wm.jpg"
   },
   {
     "id": 10,
-    "name": "Story Book",
-    "title": "hi hello",
+    "name": "Demon Slayer",
+    "title": "Action|Demons",
     "price": 0,
     "category": "Free",
-    "image": "https://i.pinimg.com/564x/b4/ae/2b/b4ae2bef7b1bf186a6b55cd31b69f8d9.jpg"
+    "image": "https://static.toiimg.com/thumb/msid-105878442,width-1280,height-720,resizemode-4/105878442.jpg"
   },
   {
     "id": 11,
-    "name": "Story Book",
-    "title": "hi hello",
+    "name": "WIND BREAKER",
+    "title": "Action|School",
+    "price": 0,
+    "category": "premium",
+    "image": "https://cdn.oneesports.gg/cdn-data/2024/03/Anime_WindBreaker_KeyImage_1.jpg"
+  },
+  {
+    "id": 12,
+    "name": "My Hero Academia",
+    "title": "Action|Comedy",
+    "price": 0,
+    "category": "premium",
+    "image": "https://cdn.kobo.com/book-images/745c077a-4660-4f77-aa81-c4d438be7102/353/569/90/False/my-hero-academia-vol-26.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Rent-A-Girlfriend",
+    "title": "Comedy|Romance",
+    "price": 0,
+    "category": "premium",
+    "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/10/pjimage-2-18.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Sweet Reincarnation",
+    "title": "Fantasy|SliceofLife",
+    "price": 0,
+    "category": "premium",
+    "image": "https://i.redd.it/kwe233bs8dza1.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Doraemon",
+    "title": "Comedy|Kids",
+    "price": 0,
+    "category": "premium",
+    "image": "https://cdn.animenewsnetwork.com/thumbnails/max450x450/cms/news.3/152902/doraemon.png.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Masamune-kun",
+    "title": "Comedy|Harem",
+    "price": 0,
+    "category": "premium",
+    "image": "https://preview.redd.it/disc-masamune-kun-no-revenge-engagement-manga-chapter-1-raw-v0-s06d2py5n9wa1.jpg?auto=webp&s=47835ef4b00a738849456ad069ec5dd5f23b334c"
+  },
+  {
+    "id": 17,
+    "name": "Fly Me to the Moon",
+    "title": "Comedy|Romance",
+    "price": 0,
+    "category": "premium",
+    "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781974717521/fly-me-to-the-moon-vol-4-9781974717521_hr.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Rurouni Kenshin",
+    "title": "Historical|Samurai ",
+    "price": 0,
+    "category": "premium",
+    "image": "https://w0.peakpx.com/wallpaper/527/583/HD-wallpaper-kenshin-himura-protagonist-artwork-manga-rurouni-kenshin.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Spy x Family",
+    "title": "Action|Comedy",
+    "price": 0,
+    "category": "premium",
+    "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781974728480/spy-x-family-vol-7-9781974728480_hr.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Bungo Stray Dogs",
+    "title": "Action|Seinen",
+    "price": 0,
+    "category": "premium",
+    "image": "https://i.pinimg.com/736x/c6/92/81/c69281d090a7b17dbf02418c5f72d702.jpg"
+  },
+  {
+    "id": 21,
+    "name": "premium",
+    "title": " Romance|School",
     "price": 0,
     "category": "Free",
-    "image": "https://i.pinimg.com/564x/b4/ae/2b/b4ae2bef7b1bf186a6b55cd31b69f8d9.jpgI"
+    "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/03/my-project-1-2023-03-29t113252-284.jpg"
+  },
+  {
+    "id": 22,
+    "name": "The Ancient MagusBride",
+    "title": "Fantasy Magic",
+    "price": 0,
+    "category": "premium",
+    "image": "https://www.pngitem.com/pimgs/m/418-4186435_ancient-magus-bride-cosplay-hd-png-download.png"
+  },
+  {
+    "id": 23,
+    "name": "In the Anten's Belle",
+    "title": "Horror|Shounen",
+    "price": 0,
+    "category": "premium",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx143978-j61ueKjsdfP5.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Edens Zero",
+    "title": "Adventure|Fantasy",
+    "price": 0,
+    "category": "premium",
+    "image": "https://w0.peakpx.com/wallpaper/361/355/HD-wallpaper-edens-zero-anime-eden-zero-manga-shiki.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Chainsaw Man",
+    "title": "Action|Adventure",
+    "price": 0,
+    "category": "premium",
+    "image": "https://i.cdn.newsbytesapp.com/images/l204_33351608044222.jpg"
+  },
+  {
+    "id": 26,
+    "name": "The Devil Is A Part-timer!",
+    "title": "Comedy|Fantasy",
+    "price": 0,
+    "category": "premium",
+    "image": "https://cdn.kobo.com/book-images/c60b2c89-9618-46b9-92b1-823a29a8c140/1200/1200/False/the-devil-is-a-part-timer-vol-14-manga.jpg"
+  },
+  {
+    "id": 27,
+    "name": "The Great Cleric",
+    "title": "Adventure|Fantasy",
+    "price": 0,
+    "category": "premium",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631705107i/59001636.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Dark Gathering",
+    "title": "Comedy|Horror",
+    "price": 0,
+    "category": "premium",
+    "image": "https://kokuroimport.com/min/img/productos/36/5e/manga-dark-gathering-vol-01.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Taekwondo Kid",
+    "title": "Drama|MartialArts",
+    "price": 0,
+    "category": "premium",
+    "image": "https://i.pinimg.com/736x/0b/5d/0a/0b5d0aa0f290cb507054f70e98d39556.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Days with A Girl",
+    "title": "Drama|Psychological",
+    "price": 0,
+    "category": "premium",
+    "image": "https://static.mangafire.to/i/0/09/09950f9ee99b57ab4b631fcebc64923d.jpg"
   }
 ]
