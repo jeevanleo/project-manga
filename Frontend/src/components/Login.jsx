@@ -16,7 +16,7 @@ function Login() {
       password: data.password,
     };
     await axios
-      .post("https://project-manga.vercel.app/user/login", userInfo)
+      .post("https://project-manga.vercel.app/login", userInfo)
       .then((res) => {
         console.log(res.data);
         if (res.data) {
