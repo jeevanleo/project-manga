@@ -12,12 +12,12 @@ function App() {
   return (
     <div className="dark:bg-slate-900 dark:text-white">
       <Routes>
-        <Route path="https://project-manga.vercel.app/" element={<Home />} />
+        <Route path="/" element={<Home />} />
         <Route
-          path="https://project-manga.vercel.app/course"
+          path="/course"
           element={authUser ? <Courses /> : <Navigate to="/signup" />}
         />
-        <Route path="https://project-manga.vercel.app/signup" element={<Signup />} />
+        <Route path="/signup" element={<Signup />} />
       </Routes>
       <Toaster />
     </div>
