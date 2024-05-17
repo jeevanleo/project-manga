@@ -39,10 +39,10 @@ function Navbar() {
   const navItems = (
     <>
       <li>
-        <a href="/">Home</a>
+        <a href="https://project-manga-frontend.vercel.app/">Home</a>
       </li>
       <li>
-        <a href="/Course">Premium Manga</a>
+        <a href="https://project-manga-frontend.vercel.app/Course">Premium Manga</a>
       </li>
       {/*<li>
         <a>Contact</a>
