@@ -31,8 +31,8 @@ mongoose
   });
 
 //define routes
-app.use("/book", bookRoute);
-app.use("/user", userRoute);
+app.use("https://project-manga.vercel.app/book", bookRoute);
+app.use("https://project-manga.vercel.app/user", userRoute);
 
 app.listen(PORT, () => {
   console.log(`Server is listening on port ${PORT}`);
